@@ -26,7 +26,7 @@ In *Tower Defense*, you are the last line of defense for a fortress tower locate
 ### Gameplay
 In *Tower Defense*, players must defend a stationary fortress at position (0, 0, 0) on the map. Waves of enemies spawn from random angles around the tower and approach it, launching projectiles when they reach a certain distance. The player must click on enemies to attack them, using up tower energy with each shot.
 
-![Gameplay Screenshot](screenshot/Capture1.png)
+![Game Screenshot](screenshot/Capture1.PNG)
 
 ### Controls
 - **Camera Rotation**: `A` and `D` (or left and right arrow keys) to rotate the camera around the tower.
@@ -48,7 +48,7 @@ In *Tower Defense*, players must defend a stationary fortress at position (0, 0,
 - **Enemy Projectiles**: Enemies fire projectiles toward the tower, causing damage on impact.
 - **Tower Projectiles**: The tower fires projectiles when the player clicks on an enemy. Energy cost is higher for distant targets.
 
-![Gameplay Screenshot](screenshot/Capture2.png)
+![Game Screenshot](screenshot/Capture2.PNG)
 
 ---
 
